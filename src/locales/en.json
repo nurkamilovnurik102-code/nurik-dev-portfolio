@@ -1,0 +1,292 @@
+{
+  "nav": {
+    "aria": "Main navigation",
+    "about": "About",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "resume": "Resume",
+    "open": "Open menu",
+    "close": "Close menu",
+    "language": "Site language",
+    "light": "Light theme",
+    "dark": "Dark theme",
+    "achievements": "Achievements",
+    "home": "Home"
+  },
+  "common": {
+    "details": "View details",
+    "live": "Visit website",
+    "retry": "Try again",
+    "top": "Back to top",
+    "notFound": "Page not found",
+    "backHome": "Back home",
+    "backProjects": "Back to projects"
+  },
+  "hero": {
+    "tag": "Open to learning and new projects",
+    "intro": "Hi, I am",
+    "firstName": "Nurislam",
+    "lastName": "Nurkamilov",
+    "role": "Junior Frontend Developer",
+    "description": "I create responsive interfaces with React and TypeScript. Technology, sport, and creative ideas inspire my work, from an early concept to a polished result.",
+    "projects": "Explore projects",
+    "resume": "My resume",
+    "statProjects": "Projects and concepts",
+    "statMonths": "Months of Frontend training",
+    "statLanguages": "Languages spoken",
+    "portfolioLabel": "FRONTEND / PORTFOLIO",
+    "scroll": "Scroll to explore",
+    "badges": {
+      "developer": "Frontend Developer",
+      "creator": "Web Project Creator",
+      "athlete": "Freestyle Wrestling"
+    },
+    "cvLabel": "My résumé",
+    "cvPage": "Résumé page {{number}}",
+    "prevPage": "Previous page",
+    "nextPage": "Next page",
+    "openResume": "Open résumé",
+    "points": {
+      "one": "Frontend development and modern UI",
+      "two": "Frontend training at Okurmen",
+      "three": "Sports, olympiads, and creativity"
+    },
+    "statSport": "Years in wrestling",
+    "previewResume": "View résumé",
+    "downloadResume": "Download PDF"
+  },
+  "about": {
+    "eyebrow": "01 / MY STORY",
+    "title": "About Me",
+    "subtitle": "My journey combines technology, sports, creativity, and family-business experience.",
+    "chapter": "MY JOURNEY",
+    "storyTitle": "Experience, responsibility, and curiosity for technology.",
+    "story1": "I attended schools in Bishkek and Osh and learned to adapt to new environments and people. My interests include technology, sports, and creative projects.",
+    "story2": "From an early age I helped my father run our family café, from cooking and stock handling to expenses and daily operations. That experience taught me responsibility and independence. Our family now has a shop called Madina Shop.",
+    "story3": "After grade 10, I completed three months of Frontend training at Okurmen. I build React and TypeScript projects. I practiced freestyle wrestling for two years, took part in Kyrgyz language, mathematics and chemistry olympiads, and joined creative and international events.",
+    "quote": "My goal is not only to write code, but to create products that are clear and useful to people.",
+    "facts": {
+      "school": {
+        "title": "Four schools",
+        "description": "Bishkek and Osh — different stages of my education."
+      },
+      "training": {
+        "title": "Frontend / Okurmen",
+        "description": "A three-month practical course after grade 10."
+      },
+      "business": {
+        "title": "Family café",
+        "description": "Experience with guests, products, and daily operations."
+      },
+      "languages": {
+        "title": "3 languages",
+        "description": "Kyrgyz, Russian, and English (B1)."
+      }
+    },
+    "highlightsTitle": "My Interests and Achievements",
+    "highlights": {
+      "first": "Two years of freestyle wrestling and strong results at competitions in Kyrgyzstan.",
+      "second": "Competed and placed in Kyrgyz language, mathematics, and chemistry olympiads.",
+      "third": "Actively participated in creative and international events.",
+      "fourth": "Studied Frontend at Okurmen and continue building my own web projects."
+    },
+    "programming": "Programming Skills",
+    "tools": "Tools",
+    "languages": "Languages",
+    "storyEyebrow": "My Story",
+    "languageItems": {
+      "kg": "Kyrgyz — fluent",
+      "ru": "Russian — intermediate",
+      "en": "English — B1"
+    }
+  },
+  "education": {
+    "eyebrow": "02 / MY TIMELINE",
+    "title": "Education and learning journey",
+    "subtitle": "Four schools, two cities, and a gradual shift toward development.",
+    "items": {
+      "school77": {
+        "years": "Up to grade 4",
+        "city": "Bishkek",
+        "name": "Secondary School No. 77",
+        "description": "The beginning of my school education in Bishkek."
+      },
+      "nariman": {
+        "years": "Grades 4–9",
+        "city": "Osh",
+        "name": "Nariman School",
+        "description": "After my family moved to Osh, I continued studying here through grade 9."
+      },
+      "bilim": {
+        "years": "Grade 10",
+        "city": "Osh",
+        "name": "Bilim Lyceum",
+        "description": "Completed grade 10 while balancing personal growth with family responsibilities."
+      },
+      "kalnazarov": {
+        "years": "Current studies",
+        "city": "Osh",
+        "name": "Saidrakhman Kalnazarov School",
+        "description": "I continue my education in Osh while developing my Frontend skills."
+      }
+    },
+    "trainingTag": "SUMMER COURSE · 3 MONTHS",
+    "trainingTitle": "Okurmen — Frontend Development",
+    "trainingDescription": "After grade 10, I completed a three-month course, learned web fundamentals, and built my own projects."
+  },
+  "skills": {
+    "eyebrow": "03 / TOOLKIT",
+    "title": "Technologies I work with",
+    "subtitle": "Practical tools for building interfaces, responsive layouts, and web experiences.",
+    "groups": {
+      "frontend": "Frontend foundations",
+      "interfaces": "Interfaces and UX",
+      "tooling": "Tools and practice"
+    },
+    "note": "Some technologies are still part of my learning journey. Practice is different from expert-level experience."
+  },
+  "projects": {
+    "eyebrow": "04 / SELECTED WORK",
+    "title": "Projects, experiments, and practice",
+    "subtitle": "Websites and concepts I have worked on, clearly labeled by development stage.",
+    "filterLabel": "Filter projects",
+    "filters": {
+      "all": "All",
+      "beauty": "Beauty",
+      "commerce": "E-commerce",
+      "travel": "Travel"
+    },
+    "status": {
+      "practice": "Learning project",
+      "prototype": "Prototype",
+      "concept": "Concept"
+    },
+    "aboutProject": "About the project",
+    "stack": "Technology stack",
+    "openProject": "Project links",
+    "linkPending": "Public website link has not been added yet. Add it in src/data/projects/index.ts.",
+    "items": {
+      "el-bem-beauty": {
+        "title": "EL BEM BEAUTY",
+        "summary": "Beauty salon website with services, specialists, booking, shop, cart, and admin interfaces.",
+        "detail": "An exam-oriented learning project for a beauty salon. I worked on services and specialist catalogs, booking time selection, cart, admin pages, multilingual support, and mobile responsiveness. I practiced Firebase integration and Vercel deployment."
+      },
+      "nurikbrand": {
+        "title": "NURIKBRAND",
+        "summary": "A personal e-commerce concept with product listings, a cart, and management interfaces.",
+        "detail": "An online store prototype covering product pages, categories, cart behavior, checkout flow, and an admin interface layout."
+      },
+      "abu-mobile": {
+        "title": "Abu Mobile",
+        "summary": "Phone and accessories store UI with a catalog and content management features.",
+        "detail": "A personal learning project for an electronics shop, focused on product catalog, cards, purchase flow, and basic content management interfaces."
+      },
+      "madina-uzgen": {
+        "title": "Madina Uzgen",
+        "summary": "A clothing, cosmetics, and womenswear shop with administrative interfaces.",
+        "detail": "A personal e-commerce project focused on clothing, cosmetics, and accessories, including storefront structure, navigation, product pages, and management interfaces."
+      },
+      "konok-kg": {
+        "title": "KONOK KG",
+        "summary": "A tourism platform concept featuring seven regions of Kyrgyzstan and excursions.",
+        "detail": "A learning concept for discovering Kyrgyzstan: seven regions, attractions, local history, excursions, products, and multilingual navigation. It is a concept, not a claim of a fully deployed service."
+      }
+    },
+    "previewAlt": "Screenshot of {{name}}"
+  },
+  "experience": {
+    "eyebrow": "05 / EXPERIENCE",
+    "title": "Real practice beyond tutorials",
+    "subtitle": "Life and development experience that helps me approach practical problems.",
+    "items": {
+      "family": {
+        "period": "Until the end of grade 10",
+        "title": "Working in our family café",
+        "description": "Supported my father with cooking, products, bookkeeping, financial questions, and everyday café operations."
+      },
+      "frontend": {
+        "period": "After grade 10",
+        "title": "Learning and building websites",
+        "description": "Studied Frontend for three months at Okurmen and continued practicing React and TypeScript with personal web projects."
+      },
+      "sports": {
+        "period": "Two years of practice",
+        "title": "Freestyle Wrestling and Discipline",
+        "description": "I trained in freestyle wrestling for two years, competed and earned positive competition results in Kyrgyzstan. Sport helped me develop persistence, discipline and focus."
+      }
+    }
+  },
+  "github": {
+    "eyebrow": "06 / CODE AND REPOS",
+    "title": "Recent GitHub repositories",
+    "subtitle": "A small live section that loads public repositories from the GitHub API.",
+    "error": "Could not load repositories. The GitHub API may be unavailable or rate-limited.",
+    "empty": "No public repositories found.",
+    "noDescription": "No description yet.",
+    "code": "Code",
+    "all": "View GitHub profile"
+  },
+  "resume": {
+    "eyebrow": "07 / RESUME",
+    "title": "Resume and professional profile",
+    "subtitle": "My projects, education, and skills in one PDF. Preview online or download.",
+    "preview": "View PDF",
+    "download": "Download PDF",
+    "pageDescription": "Responsive resume preview. Mobile browsers can also open the PDF as a separate file.",
+    "openPdf": "Open PDF",
+    "fallback": "If your browser does not support the embedded preview, use"
+  },
+  "contact": {
+    "eyebrow": "08 / CONTACT",
+    "title": "Get in Touch",
+    "subtitle": "Choose a convenient way to reach me. I am open to discussing ideas and projects.",
+    "copy": "Copy email",
+    "copied": "Copied",
+    "email": "Send an email",
+    "linkPending": "Profile link coming soon",
+    "whatsappDetail": "+996 224 201 530",
+    "instagramDetail": "My Instagram",
+    "githubDetail": "@nuriswv",
+    "telegramDetail": "My Telegram",
+    "alsoEmail": "Or send an email:"
+  },
+  "footer": {
+    "tagline": "Frontend · Building simple and useful interfaces.",
+    "rights": "All rights reserved"
+  },
+  "achievements": {
+    "eyebrow": "03 / MILESTONES",
+    "title": "Achievements & Milestones",
+    "subtitle": "Sports, olympiads, creativity, and training. Exact dates, rankings, and photos can be added once confirmed.",
+    "viewAll": "View All",
+    "evidence": "Evidence",
+    "items": {
+      "frontendTraining": {
+        "category": "Development",
+        "title": "Frontend Training at Okurmen",
+        "description": "A three-month practical course in building websites and user interfaces."
+      },
+      "wrestling": {
+        "category": "Sport",
+        "title": "Freestyle Wrestling",
+        "description": "Two years of training and strong results at competitions in Kyrgyzstan. Specific results can be added later."
+      },
+      "olympiads": {
+        "category": "Education",
+        "title": "Subject Olympiads",
+        "description": "Participated and earned placements in olympiads for Kyrgyz language, mathematics, and chemistry."
+      },
+      "creative": {
+        "category": "Creativity",
+        "title": "Creative and International Events",
+        "description": "Active participation in creative, school, and international events."
+      }
+    }
+  },
+  "seo": {
+    "description": "Nurislam Nurkamilov — Frontend Developer. React, TypeScript, projects, education, sports and achievements."
+  }
+}
